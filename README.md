@@ -5,7 +5,7 @@
 ![r1z SDK Preview](https://i.imgur.com/QYftu1j.png)
 
 ## What is R1Z?
-[r1z](https://www.r1z.dev/) is an open-source infrastructure that allows you to run AI-generated code in secure isolated sandboxes in the cloud. To start and control sandboxes, use our [JavaScript SDK](https://www.npmjs.com/package/@r1z/code-interpreter) or [Python SDK](https://pypi.org/project/r1z_code_interpreter).
+[r1z](https://www.r1z.dev/) is an open-source tooling that runs AI-generated code in securely isolated cloud sandboxes. To start and control sandboxes, use our [JavaScript SDK](https://www.npmjs.com/package/@r1z/code-interpreter) or [Python SDK](https://pypi.org/project/r1z_code_interpreter).
 
 > [!NOTE]
 > This repository contains the core r1z SDK that's used in our main [r1z Code Interpreter SDK](https://github.com/r1z-dev-git/super-robot).
