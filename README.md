@@ -3,7 +3,6 @@
 </p> -->
 
 ![r1z SDK Preview](https://i.imgur.com/QYftu1j.png)
-![r1z SDK Preview](https://i.imgur.com/QYftu1j.png)
 
 <h4 align="center">
   <a href="https://pypi.org/project/r1z/">
